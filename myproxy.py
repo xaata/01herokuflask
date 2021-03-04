@@ -3,7 +3,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Hello FIIT-17!'
+    return 'Hello IVT-17!'
 
 if __name__ == '__main__':
     app.run()
